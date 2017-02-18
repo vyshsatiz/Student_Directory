@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="add_student_btn" type="id">btn</item>
+    <item name="add_teacher_btn" type="id">tch</item>
+    <item name="view_btn" type="id">viw</item>
+    <item name="view_teacher_btn" type="id">tchv</item>
+    <item name="ormlite_config" type="id">omr</item>
+</resources>
